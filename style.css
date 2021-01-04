@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+/* .main{
+width: 100%;
+height: 1080px;
+position: relative;
+} */
+
+.img-bg{
+    width: 1080px;
+    height: 550px;
+  margin-left: 105px;
+    margin-top: 10px;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 100px;
+    position: absolute;
+    width: 100%;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 3vw;
+    letter-spacing: -1px;
+    color: burlywood;
+}
+#clock{
+    width: 100%;
+    position: absolute;
+    font-size: 5vw;
+    color:burlywood;
+    text-align: center;
+    margin-top: 150px;
+    font-family: serif;
+
+}
